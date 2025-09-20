@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shadman Farhan  
+# 👋 Hi, I'm Shadman
 
 🎓 **Computer Science Major @ Hunter College**  
 💻 **Junior Coder @ Amazon**  
