@@ -1,9 +1,7 @@
 ### 👋 Hi, I'm Shadman
 
-**Computer Science Major @ Hunter College**  
-**Incoming Software Engineer Intern @ Amazon**
-**Previously Software Engineer Apprentice @ Amazon**
-
+*Computer Science @* ***Hunter College***  
+*Incoming Software Engineer Intern @* ***Amazon***
 
 ### About Me  
 - In my spare time, I’m either at the gym, playing pickleball, or browsing cars I definitely can’t afford yet.
