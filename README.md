@@ -3,8 +3,8 @@
 *Computer Science @* ***Hunter College***  
 *Incoming Software Engineer Intern @* ***Amazon***
 
-- 🏎️ In my spare time, I’m either at the gym, playing pickleball, or browsing cars I definitely can’t afford yet.
-- 💻 Passionate about building, learning, and creating meaningful software
+- 🏎️ Outside of coding: gym, pickleball, and dream cars
+- 💻 I like building and learning things
 - 💯 Feel free to reach out to talk about literally anything
 
 
