@@ -1,9 +1,9 @@
 ### 👋 Hi, I'm Shadman
 
 *Computer Science @* ***Hunter College***  
-*Incoming Software Engineer Intern @* ***Amazon***
+*Prev Software Engineer Intern @* ***Amazon***
 
-- 🏎️ Outside of coding: gym, pickleball, and dream cars
+- 🏎️ Outside of coding: gym, pickleball, and cars
 - 💻 I like building and learning things
 - 💯 Feel free to reach out to talk about literally anything
 
